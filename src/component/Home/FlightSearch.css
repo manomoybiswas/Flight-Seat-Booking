@@ -1,0 +1,46 @@
+.minus-button{
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  border: 1px solid #e4e4e4;
+  background-color: #ffffff;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+  border-right: none;
+  font-size: 22px;
+}
+.plus-button{
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  border: 1px solid #e4e4e4;
+  background-color: #ffffff;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: center;
+  padding-bottom: 10px;
+  border-left: none;
+  font-size: 22px;
+}
+.traveller-value{
+  border: 1px solid #e4e4e4;
+  background-color: #e4e4e4;
+  display: inline-block;
+  width: 50px;
+  height: 36px;
+  text-align: center;
+  font-size: 22px;
+
+}
+.search-button{
+  width: 50%;
+  border-radius: 50px;
+}
+.search-button:hover{
+  background-color: #ffffff;
+  color: #dc3545;
+}
